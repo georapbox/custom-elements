@@ -3,7 +3,7 @@
 A list of my custom elements
 
 - **&lt;capture-photo&gt;** - [repository](https://github.com/georapbox/capture-photo-element) • [npm](https://www.npmjs.com/package/@georapbox/capture-photo-element) • [demo](https://georapbox.github.io/capture-photo-element/)  
-  A custom element that implements the MediaDevices.getUserMedia() method of the MediaDevices interface to capture a photo in the browser.
+  A custom element that implements the `MediaDevices.getUserMedia()` method of the `MediaDevices` interface to capture a photo in the browser.
 
 - **&lt;clipboard-copy&gt;** - [repository](https://github.com/georapbox/clipboard-copy-element) • [npm](https://www.npmjs.com/package/@georapbox/clipboard-copy-element) • [demo](https://georapbox.github.io/clipboard-copy-element/)  
   A custom element that implements the Clipboard API to copy text content from elements or input values to the clipboard.
