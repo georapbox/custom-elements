@@ -45,3 +45,13 @@ A list of my custom elements
 - [Supercharging Built-In Elements With Web Components is Easier Than You Think]()
 - [Context-Aware Web Components Are Easier Than You Think](https://css-tricks.com/context-aware-web-components/)
 - [Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think](https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/)
+
+### javascript.info
+
+- [From the orbital height](https://javascript.info/webcomponents-intro)
+- [Custom elements](https://javascript.info/custom-elements)
+- [Shadow DOM](https://javascript.info/shadow-dom)
+- [Template element](https://javascript.info/template-element)
+- [Shadow DOM slots, composition](https://javascript.info/slots-composition)
+- [Shadow DOM styling](https://javascript.info/shadow-dom-style)
+- [Shadow DOM and events](https://javascript.info/shadow-dom-events)
