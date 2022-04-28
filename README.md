@@ -7,6 +7,9 @@ A list of my custom elements
 
 - **&lt;clipboard-copy&gt;** - [repository](https://github.com/georapbox/clipboard-copy-element) • [npm](https://www.npmjs.com/package/@georapbox/clipboard-copy-element) • [demo](https://georapbox.github.io/clipboard-copy-element/)  
   A custom element that implements the Clipboard API to copy text content from elements or input values to the clipboard.
+  
+- **&lt;resize-observer&gt;** - [repository](https://github.com/georapbox/resize-observer-element) • [npm](https://www.npmjs.com/package/@georapbox/resize-observer-element) • [demo](https://georapbox.github.io/resize-observer-element/)  
+  A custom element that offers a declarative interface to the ResizeObserver API.
 
 - **&lt;scroll-top&gt;** - [repository](https://github.com/georapbox/scroll-top-element) • [npm](https://www.npmjs.com/package/@georapbox/scroll-top-element) • [demo](https://georapbox.github.io/scroll-top-element/)  
   A custom element that scrolls to the top of the page.
