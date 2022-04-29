@@ -1,28 +1,42 @@
 # Custom Elements
 
-A list of my custom elements
+A list of my Custom Elements (Web Components) and some useful links with related material.
 
-- **&lt;capture-photo&gt;** - [repository](https://github.com/georapbox/capture-photo-element) • [npm](https://www.npmjs.com/package/@georapbox/capture-photo-element) • [demo](https://georapbox.github.io/capture-photo-element/)  
-  A custom element that implements the `MediaDevices.getUserMedia()` method of the `MediaDevices` interface to capture a photo in the browser.
+## Components
 
-- **&lt;clipboard-copy&gt;** - [repository](https://github.com/georapbox/clipboard-copy-element) • [npm](https://www.npmjs.com/package/@georapbox/clipboard-copy-element) • [demo](https://georapbox.github.io/clipboard-copy-element/)  
-  A custom element that implements the Clipboard API to copy text content from elements or input values to the clipboard.
+### &lt;capture-photo&gt;
+A custom element that implements the `MediaDevices.getUserMedia()` method of the `MediaDevices` interface to capture a photo in the browser.
+
+[repository](https://github.com/georapbox/capture-photo-element) • [npm](https://www.npmjs.com/package/@georapbox/capture-photo-element) • [demo](https://georapbox.github.io/capture-photo-element/)
+
+### &lt;clipboard-copy&gt;
+A custom element that implements the Clipboard API to copy text content from elements or input values to the clipboard.
+
+[repository](https://github.com/georapbox/clipboard-copy-element) • [npm](https://www.npmjs.com/package/@georapbox/clipboard-copy-element) • [demo](https://georapbox.github.io/clipboard-copy-element/)
   
-- **&lt;resize-observer&gt;** - [repository](https://github.com/georapbox/resize-observer-element) • [npm](https://www.npmjs.com/package/@georapbox/resize-observer-element) • [demo](https://georapbox.github.io/resize-observer-element/)  
-  A custom element that offers a declarative interface to the ResizeObserver API.
+### &lt;resize-observer&gt;
+A custom element that offers a declarative interface to the ResizeObserver API.
 
-- **&lt;scroll-top&gt;** - [repository](https://github.com/georapbox/scroll-top-element) • [npm](https://www.npmjs.com/package/@georapbox/scroll-top-element) • [demo](https://georapbox.github.io/scroll-top-element/)  
-  A custom element that scrolls to the top of the page.
+[repository](https://github.com/georapbox/resize-observer-element) • [npm](https://www.npmjs.com/package/@georapbox/resize-observer-element) • [demo](https://georapbox.github.io/resize-observer-element/)
 
-- **&lt;skeleton-placeholder&gt;** - [repository](https://github.com/georapbox/skeleton-placeholder-element) • [npm](https://www.npmjs.com/package/@georapbox/skeleton-placeholder-element) • [demo](https://georapbox.github.io/skeleton-placeholder-element/)  
-  A custom element that acts as a placeholder to indicate that some content will eventually be rendered.
+### &lt;scroll-top&gt;
+A custom element that scrolls to the top of the page.
 
-- **&lt;web-share&gt;** - [repository](https://github.com/georapbox/web-share-element) • [npm](https://www.npmjs.com/package/@georapbox/web-share-element) • [demo](https://georapbox.github.io/web-share-element/)  
-  A custom element that implements the Web Share API to share user-defined data.
+[repository](https://github.com/georapbox/scroll-top-element) • [npm](https://www.npmjs.com/package/@georapbox/scroll-top-element) • [demo](https://georapbox.github.io/scroll-top-element/)
 
-### Useful links
+### &lt;skeleton-placeholder&gt;
+A custom element that acts as a placeholder to indicate that some content will eventually be rendered.
 
-#### web.dev
+[repository](https://github.com/georapbox/skeleton-placeholder-element) • [npm](https://www.npmjs.com/package/@georapbox/skeleton-placeholder-element) • [demo](https://georapbox.github.io/skeleton-placeholder-element/)
+
+### &lt;web-share&gt;
+A custom element that implements the Web Share API to share user-defined data.
+
+[repository](https://github.com/georapbox/web-share-element) • [npm](https://www.npmjs.com/package/@georapbox/web-share-element) • [demo](https://georapbox.github.io/web-share-element/)
+
+## Useful links
+
+### web.dev
 
 - [Custom Elements v1 - Reusable Web Components](https://web.dev/custom-elements-v1/)
 - [Shadow DOM v1 - Self-Contained Web Components](https://web.dev/shadowdom-v1/)
@@ -30,7 +44,7 @@ A list of my custom elements
 - [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/)
 - [Constructable Stylesheets](https://web.dev/constructable-stylesheets/)
 
-#### MDN
+### MDN
 
 - [Using custom elements](https://developer.mozilla.org/docs/Web/Web_Components/Using_custom_elements)
 - [Using shadow DOM](https://developer.mozilla.org/docs/Web/Web_Components/Using_shadow_DOM)
@@ -40,7 +54,7 @@ A list of my custom elements
 - [HTMLTemplateElement](https://developer.mozilla.org/docs/Web/API/HTMLTemplateElement)
 - [ShadowRoot](https://developer.mozilla.org/docs/Web/API/ShadowRoot)
 
-#### CSS Tricks
+### CSS Tricks
 
 - [Web Components Are Easier Than You Think](https://css-tricks.com/web-components-are-easier-than-you-think/)
 - [Interactive Web Components Are Easier Than You Think](https://css-tricks.com/interactive-web-components-are-easier-than-you-think/)
@@ -49,7 +63,7 @@ A list of my custom elements
 - [Context-Aware Web Components Are Easier Than You Think](https://css-tricks.com/context-aware-web-components/)
 - [Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think](https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/)
 
-### javascript.info
+## javascript.info
 
 - [From the orbital height](https://javascript.info/webcomponents-intro)
 - [Custom elements](https://javascript.info/custom-elements)
