@@ -47,6 +47,7 @@ A custom element that implements the Web Share API to share user-defined data.
 - [Shadow DOM v1 - Self-Contained Web Components](https://web.dev/shadowdom-v1/)
 - [Custom Element Best Practices](https://web.dev/index.md/)
 - [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/)
+- [HTML's New Template Tag](https://web.dev/webcomponents-template/)
 - [Constructable Stylesheets](https://web.dev/constructable-stylesheets/)
 
 ### MDN
