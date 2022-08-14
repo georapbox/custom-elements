@@ -14,6 +14,11 @@ A custom element that implements the Clipboard API to copy text content from ele
 
 [repository](https://github.com/georapbox/clipboard-copy-element) • [npm](https://www.npmjs.com/package/@georapbox/clipboard-copy-element) • [demo](https://georapbox.github.io/clipboard-copy-element/)
 
+### &lt;eye-dropper&gt;
+A custom element that implements the EyeDropper API that allows the user to select colors from the screen.
+
+[repository](https://github.com/georapbox/eye-dropper-element) • [npm](https://www.npmjs.com/package/@georapbox/eye-dropper-element) • [demo](https://georapbox.github.io/eye-dropper-element/)
+
 ### &lt;mutation-observer&gt;
 A custom element that offers a declarative interface to the MutationObserver API.
 
