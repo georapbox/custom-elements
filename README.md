@@ -83,3 +83,7 @@ A custom element that implements the Web Share API to share user-defined data.
 - [Shadow DOM slots, composition](https://javascript.info/slots-composition)
 - [Shadow DOM styling](https://javascript.info/shadow-dom-style)
 - [Shadow DOM and events](https://javascript.info/shadow-dom-events)
+
+## Modern Web
+
+- [Learning Modern Web](https://modern-web.dev/guides/)
