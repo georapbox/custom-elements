@@ -57,6 +57,7 @@ A custom element that implements the Web Share API to share user-defined data.
 
 ### MDN
 
+- [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - [Using custom elements](https://developer.mozilla.org/docs/Web/Web_Components/Using_custom_elements)
 - [Using shadow DOM](https://developer.mozilla.org/docs/Web/Web_Components/Using_shadow_DOM)
 - [Using templates and slots](https://developer.mozilla.org/docs/Web/Web_Components/Using_templates_and_slots)
