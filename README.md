@@ -44,7 +44,7 @@ A custom element that implements the Web Share API to share user-defined data.
 
 [repository](https://github.com/georapbox/web-share-element) • [npm](https://www.npmjs.com/package/@georapbox/web-share-element) • [demo](https://georapbox.github.io/web-share-element/)
 
-## Useful links
+## Learning material
 
 ### web.dev
 
@@ -75,7 +75,7 @@ A custom element that implements the Web Share API to share user-defined data.
 - [Context-Aware Web Components Are Easier Than You Think](https://css-tricks.com/context-aware-web-components/)
 - [Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think](https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/)
 
-## javascript.info
+### javascript.info
 
 - [From the orbital height](https://javascript.info/webcomponents-intro)
 - [Custom elements](https://javascript.info/custom-elements)
@@ -91,3 +91,12 @@ A custom element that implements the Web Share API to share user-defined data.
 - [Custom Elements Manifest](https://custom-elements-manifest.open-wc.org/)
 - [Open Web Components](https://open-wc.org/)
 - [webcomponents.org](https://www.webcomponents.org/)
+
+## Third party components
+
+- [details-utils](https://github.com/zachleat/details-utils) - Add enhancements to `details` elements
+- [html-include](https://github.com/justinfagnani/html-include-element) - Easily include external HTML into your pages.
+- [seven-minute-tabs](https://github.com/zachleat/seven-minute-tabs) - Tabs web component
+- [video-radio-star](https://github.com/zachleat/video-radio-star) - A lightweight web component helper for HTML5 videos.
+- [github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
+- [howto-components](https://github.com/GoogleChromeLabs/howto-components) - A collection of web components for educational purposes with a special focus on accessibility, performance and progressive enhancement.
