@@ -94,6 +94,7 @@ A custom element that implements the Web Share API to share user-defined data.
 
 ## Third party components
 
+- [shoelace](https://shoelace.style/) - A forward-thinking library of web components.
 - [details-utils](https://github.com/zachleat/details-utils) - Add enhancements to `details` elements
 - [html-include](https://github.com/justinfagnani/html-include-element) - Easily include external HTML into your pages.
 - [seven-minute-tabs](https://github.com/zachleat/seven-minute-tabs) - Tabs web component
