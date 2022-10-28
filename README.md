@@ -39,6 +39,11 @@ A custom element that acts as a placeholder to indicate that some content will e
 
 [repository](https://github.com/georapbox/skeleton-placeholder-element) • [npm](https://www.npmjs.com/package/@georapbox/skeleton-placeholder-element) • [demo](https://georapbox.github.io/skeleton-placeholder-element/)
 
+### &lt;theme-toggle&gt;
+A custom element that allows you to toggle between dark and light theme.
+
+[repository](https://github.com/georapbox/theme-toggle-element) • [npm](https://www.npmjs.com/package/@georapbox/theme-toggle-element) • [demo](https://georapbox.github.io/theme-toggle-element/)
+
 ### &lt;web-share&gt;
 A custom element that implements the Web Share API to share user-defined data.
 
