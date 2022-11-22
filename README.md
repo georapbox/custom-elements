@@ -106,3 +106,4 @@ A custom element that implements the Web Share API to share user-defined data.
 - [video-radio-star](https://github.com/zachleat/video-radio-star) - A lightweight web component helper for HTML5 videos.
 - [github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [howto-components](https://github.com/GoogleChromeLabs/howto-components) - A collection of web components for educational purposes with a special focus on accessibility, performance and progressive enhancement.
+- [two-up](https://github.com/GoogleChromeLabs/two-up) - A web component to compare two DOM elements
