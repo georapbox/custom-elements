@@ -107,3 +107,4 @@ A custom element that implements the Web Share API to share user-defined data.
 - [github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [howto-components](https://github.com/GoogleChromeLabs/howto-components) - A collection of web components for educational purposes with a special focus on accessibility, performance and progressive enhancement.
 - [two-up](https://github.com/GoogleChromeLabs/two-up) - A web component to compare two DOM elements
+- [pinch-zoom](https://github.com/GoogleChromeLabs/pinch-zoom) - A web component for pinch zooming DOM elements.
