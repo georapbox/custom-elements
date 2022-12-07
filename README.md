@@ -23,6 +23,11 @@ A custom element that implements the EyeDropper API that allows the user to sele
 A custom element that offers a declarative interface to the MutationObserver API.
 
 [repository](https://github.com/georapbox/mutation-observer-element) • [npm](https://www.npmjs.com/package/@georapbox/mutation-observer-element) • [demo](https://georapbox.github.io/mutation-observer-element/)
+
+### &lt;picture-in-picture&gt;
+A custom element that offers a declarative interface to the Picture-in-Picture API.
+
+[repository](https://github.com/georapbox/picture-in-picture-element) • [npm](https://www.npmjs.com/package/@georapbox/picture-in-picture-element) • [demo](https://georapbox.github.io/picture-in-picture-element/)
   
 ### &lt;resize-observer&gt;
 A custom element that offers a declarative interface to the ResizeObserver API.
