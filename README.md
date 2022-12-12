@@ -113,3 +113,5 @@ A custom element that implements the Web Share API to share user-defined data.
 - [howto-components](https://github.com/GoogleChromeLabs/howto-components) - A collection of web components for educational purposes with a special focus on accessibility, performance and progressive enhancement.
 - [two-up](https://github.com/GoogleChromeLabs/two-up) - A web component to compare two DOM elements
 - [pinch-zoom](https://github.com/GoogleChromeLabs/pinch-zoom) - A web component for pinch zooming DOM elements.
+- [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) - A custom element that allows you to easily put a Dark Mode toggle or switch on your site.
+- [rhino-editor](https://github.com/KonnorRogers/rhino-editor) - To create a grab and go WYSIWYG editing experience that can hook into Ruby on Rails ActionText backend.
