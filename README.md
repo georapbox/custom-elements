@@ -4,55 +4,16 @@ A list of my Custom Elements (Web Components) and some useful links with related
 
 ## Components
 
-### &lt;capture-photo&gt;
-A custom element that implements the `MediaDevices.getUserMedia()` method of the `MediaDevices` interface to capture a photo in the browser.
-
-[repository](https://github.com/georapbox/capture-photo-element) • [npm](https://www.npmjs.com/package/@georapbox/capture-photo-element) • [demo](https://georapbox.github.io/capture-photo-element/)
-
-### &lt;clipboard-copy&gt;
-A custom element that implements the Clipboard API to copy text content from elements or input values to the clipboard.
-
-[repository](https://github.com/georapbox/clipboard-copy-element) • [npm](https://www.npmjs.com/package/@georapbox/clipboard-copy-element) • [demo](https://georapbox.github.io/clipboard-copy-element/)
-
-### &lt;eye-dropper&gt;
-A custom element that implements the EyeDropper API that allows the user to select colors from the screen.
-
-[repository](https://github.com/georapbox/eye-dropper-element) • [npm](https://www.npmjs.com/package/@georapbox/eye-dropper-element) • [demo](https://georapbox.github.io/eye-dropper-element/)
-
-### &lt;mutation-observer&gt;
-A custom element that offers a declarative interface to the MutationObserver API.
-
-[repository](https://github.com/georapbox/mutation-observer-element) • [npm](https://www.npmjs.com/package/@georapbox/mutation-observer-element) • [demo](https://georapbox.github.io/mutation-observer-element/)
-
-### &lt;picture-in-picture&gt;
-A custom element that offers a declarative interface to the Picture-in-Picture API.
-
-[repository](https://github.com/georapbox/picture-in-picture-element) • [npm](https://www.npmjs.com/package/@georapbox/picture-in-picture-element) • [demo](https://georapbox.github.io/picture-in-picture-element/)
-  
-### &lt;resize-observer&gt;
-A custom element that offers a declarative interface to the ResizeObserver API.
-
-[repository](https://github.com/georapbox/resize-observer-element) • [npm](https://www.npmjs.com/package/@georapbox/resize-observer-element) • [demo](https://georapbox.github.io/resize-observer-element/)
-
-### &lt;scroll-top&gt;
-A custom element that scrolls to the top of the page.
-
-[repository](https://github.com/georapbox/scroll-top-element) • [npm](https://www.npmjs.com/package/@georapbox/scroll-top-element) • [demo](https://georapbox.github.io/scroll-top-element/)
-
-### &lt;skeleton-placeholder&gt;
-A custom element that acts as a placeholder to indicate that some content will eventually be rendered.
-
-[repository](https://github.com/georapbox/skeleton-placeholder-element) • [npm](https://www.npmjs.com/package/@georapbox/skeleton-placeholder-element) • [demo](https://georapbox.github.io/skeleton-placeholder-element/)
-
-### &lt;theme-toggle&gt;
-A custom element that allows you to toggle between dark and light theme.
-
-[repository](https://github.com/georapbox/theme-toggle-element) • [npm](https://www.npmjs.com/package/@georapbox/theme-toggle-element) • [demo](https://georapbox.github.io/theme-toggle-element/)
-
-### &lt;web-share&gt;
-A custom element that implements the Web Share API to share user-defined data.
-
-[repository](https://github.com/georapbox/web-share-element) • [npm](https://www.npmjs.com/package/@georapbox/web-share-element) • [demo](https://georapbox.github.io/web-share-element/)
+- capture-photo: [repository](https://github.com/georapbox/capture-photo-element) • [npm](https://www.npmjs.com/package/@georapbox/capture-photo-element) • [demo](https://georapbox.github.io/capture-photo-element/)
+- clipboard-copy: [repository](https://github.com/georapbox/clipboard-copy-element) • [npm](https://www.npmjs.com/package/@georapbox/clipboard-copy-element) • [demo](https://georapbox.github.io/clipboard-copy-element/)
+- eye-dropper: [repository](https://github.com/georapbox/eye-dropper-element) • [npm](https://www.npmjs.com/package/@georapbox/eye-dropper-element) • [demo](https://georapbox.github.io/eye-dropper-element/)
+- mutation-observer: [repository](https://github.com/georapbox/mutation-observer-element) • [npm](https://www.npmjs.com/package/@georapbox/mutation-observer-element) • [demo](https://georapbox.github.io/mutation-observer-element/)
+- picture-in-picture: [repository](https://github.com/georapbox/picture-in-picture-element) • [npm](https://www.npmjs.com/package/@georapbox/picture-in-picture-element) • [demo](https://georapbox.github.io/picture-in-picture-element/)
+- resize-observer: [repository](https://github.com/georapbox/resize-observer-element) • [npm](https://www.npmjs.com/package/@georapbox/resize-observer-element) • [demo](https://georapbox.github.io/resize-observer-element/)
+- scroll-top: [repository](https://github.com/georapbox/scroll-top-element) • [npm](https://www.npmjs.com/package/@georapbox/scroll-top-element) • [demo](https://georapbox.github.io/scroll-top-element/)
+- skeleton-placeholder: [repository](https://github.com/georapbox/skeleton-placeholder-element) • [npm](https://www.npmjs.com/package/@georapbox/skeleton-placeholder-element) • [demo](https://georapbox.github.io/skeleton-placeholder-element/)
+- theme-toggle: [repository](https://github.com/georapbox/theme-toggle-element) • [npm](https://www.npmjs.com/package/@georapbox/theme-toggle-element) • [demo](https://georapbox.github.io/theme-toggle-element/)
+- web-share: [repository](https://github.com/georapbox/web-share-element) • [npm](https://www.npmjs.com/package/@georapbox/web-share-element) • [demo](https://georapbox.github.io/web-share-element/)
 
 ## Learning material
 
