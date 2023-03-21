@@ -4,6 +4,7 @@ A list of my Custom Elements (Web Components) and some useful links with related
 
 ## Components
 
+- a-tab-group: [repository](https://github.com/georapbox/a-tab-group) • [npm](https://www.npmjs.com/package/@georapbox/a-tab-group) • [demo](https://georapbox.github.io/a-tab-group/)
 - capture-photo: [repository](https://github.com/georapbox/capture-photo-element) • [npm](https://www.npmjs.com/package/@georapbox/capture-photo-element) • [demo](https://georapbox.github.io/capture-photo-element/)
 - clipboard-copy: [repository](https://github.com/georapbox/clipboard-copy-element) • [npm](https://www.npmjs.com/package/@georapbox/clipboard-copy-element) • [demo](https://georapbox.github.io/clipboard-copy-element/)
 - eye-dropper: [repository](https://github.com/georapbox/eye-dropper-element) • [npm](https://www.npmjs.com/package/@georapbox/eye-dropper-element) • [demo](https://georapbox.github.io/eye-dropper-element/)
@@ -37,6 +38,7 @@ A list of my Custom Elements (Web Components) and some useful links with related
 - [HTMLSlotElement](https://developer.mozilla.org/docs/Web/API/HTMLSlotElement)
 - [HTMLTemplateElement](https://developer.mozilla.org/docs/Web/API/HTMLTemplateElement)
 - [ShadowRoot](https://developer.mozilla.org/docs/Web/API/ShadowRoot)
+- [ElementInternals](https://developer.mozilla.org/en-US/docs/Web/API/ElementInternals)
 
 ### CSS Tricks
 
@@ -56,6 +58,10 @@ A list of my Custom Elements (Web Components) and some useful links with related
 - [Shadow DOM slots, composition](https://javascript.info/slots-composition)
 - [Shadow DOM styling](https://javascript.info/shadow-dom-style)
 - [Shadow DOM and events](https://javascript.info/shadow-dom-events)
+
+### Medium
+
+- [About Web Components](https://eisenbergeffect.medium.com/about-web-components-7b2a3ed67a78)
 
 ## Misc (Tools, guides, etc)
 
