@@ -19,6 +19,10 @@ A list of my Custom Elements (Web Components) and some useful links with related
 
 ## Learning material
 
+### Specs
+
+- [Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
+
 ### web.dev
 
 - [Custom Elements v1 - Reusable Web Components](https://web.dev/custom-elements-v1/)
