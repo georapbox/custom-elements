@@ -77,7 +77,13 @@ A list of my Custom Elements (Web Components) and some useful links with related
 
 ## Third party components
 
+### Design systems
+
 - [shoelace](https://shoelace.style/) - A forward-thinking library of web components.
+- [Carbon Design System](https://carbondesignsystem.com/) - IBM’s open source design system.
+
+### Standalone components
+
 - [details-utils](https://github.com/zachleat/details-utils) - Add enhancements to `details` elements
 - [html-include](https://github.com/justinfagnani/html-include-element) - Easily include external HTML into your pages.
 - [seven-minute-tabs](https://github.com/zachleat/seven-minute-tabs) - Tabs web component
