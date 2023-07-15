@@ -63,6 +63,10 @@ A list of my Custom Elements (Web Components) and some useful links with related
 - [Shadow DOM styling](https://javascript.info/shadow-dom-style)
 - [Shadow DOM and events](https://javascript.info/shadow-dom-events)
 
+### dev.to
+
+- [Custom Forms with Web Components and "ElementInternals](https://dev.to/stuffbreaker/custom-forms-with-web-components-and-elementinternals-4jaj)
+
 ### Medium
 
 - [About Web Components](https://eisenbergeffect.medium.com/about-web-components-7b2a3ed67a78)
