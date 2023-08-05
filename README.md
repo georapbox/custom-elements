@@ -100,3 +100,4 @@ A list of my Custom Elements (Web Components) and some useful links with related
 - [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) - A custom element that allows you to easily put a Dark Mode toggle or switch on your site.
 - [rhino-editor](https://github.com/KonnorRogers/rhino-editor) - To create a grab and go WYSIWYG editing experience that can hook into Ruby on Rails ActionText backend.
 - [emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element) - A lightweight emoji picker, distributed as a web component.
+- [codemirror-elements](https://github.com/justinfagnani/codemirror-elements)
