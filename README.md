@@ -141,5 +141,5 @@ A custom element that implements the Web Share API to share user-defined data.
 - [emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element) - A lightweight emoji picker, distributed as a web component.
 - [codemirror-elements](https://github.com/justinfagnani/codemirror-elements) - A set of CodeMirror custom HTML elements
 - [table-show](https://github.com/zachleat/table-saw) - A small web component for responsive &lt;table&gt; elements.
-- [browser-window](https://github.com/zachleat/browser-window/blob/main/README.md) - A small themed zero-dependency Web Component for demos with a fake browser window (Safari-esque).
+- [browser-window](https://github.com/zachleat/browser-window) - A small themed zero-dependency Web Component for demos with a fake browser window (Safari-esque).
 - [squirm-inal](https://github.com/zachleat/squirminal) - The squirminal is a fake antique terminal web component.
