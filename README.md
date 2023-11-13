@@ -128,7 +128,7 @@ A custom element that implements the Web Share API to share user-defined data.
 - [Fluent UI](https://learn.microsoft.com/en-gb/fluent-ui/web-components/) - Microsoft's Fluent UI Web Components
 - [Lion](https://lion-web.netlify.app/) - Fundamental white label web components for building your design system
 - [Vaadin](https://vaadin.com/) - Vaadin Web Components
-- [Material](https://m3.material.io/) - Material Web Components
+- [Material](https://material-web.dev/) - The official web component set for Material 3
 
 ### Standalone components
 
