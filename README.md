@@ -123,8 +123,12 @@ A custom element that implements the Web Share API to share user-defined data.
 
 ### Design systems
 
-- [shoelace](https://shoelace.style/) - A forward-thinking library of web components.
-- [Carbon Design System](https://carbondesignsystem.com/) - IBM’s open source design system.
+- [shoelace](https://shoelace.style/) - A forward-thinking library of web components
+- [Carbon Design System](https://carbondesignsystem.com/) - IBM’s open source design system
+- [Fluent UI](https://learn.microsoft.com/en-gb/fluent-ui/web-components/) - Microsoft's Fluent UI Web Components
+- [Lion](https://lion-web.netlify.app/) - Fundamental white label web components for building your design system
+- [Vaadin](https://vaadin.com/) - Vaadin Web Components
+- [Material](https://m3.material.io/) - Material Web Components
 
 ### Standalone components
 
