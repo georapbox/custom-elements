@@ -147,3 +147,4 @@ A custom element that implements the Web Share API to share user-defined data.
 - [table-show](https://github.com/zachleat/table-saw) - A small web component for responsive &lt;table&gt; elements.
 - [browser-window](https://github.com/zachleat/browser-window) - A small themed zero-dependency Web Component for demos with a fake browser window (Safari-esque).
 - [squirm-inal](https://github.com/zachleat/squirminal) - The squirminal is a fake antique terminal web component.
+- [last-icon](https://github.com/lekoala/last-icon) - An icon library using custom elements.
