@@ -150,3 +150,4 @@ A custom element that implements the Web Share API to share user-defined data.
 - [last-icon](https://github.com/lekoala/last-icon) - An icon library using custom elements.
 - [ppp-price](https://github.com/zachleat/parity-purchasing-power-price) - A small structural-only zero-dependency Web Component to show Parity Purchasing Power normalized prices.
 - [sparkly-text](https://github.com/stefanjudis/sparkly-text) - A small zero-dependency Web Component to add sparkles to text fragments.
+- [dia-date-picker](https://github.com/break-stuff/dia-date-picker) - A lightweight framework agnostic date picker and calendar component.
