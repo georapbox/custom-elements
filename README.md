@@ -152,3 +152,4 @@ A custom element that implements the Web Share API to share user-defined data.
 - [sparkly-text](https://github.com/stefanjudis/sparkly-text) - A small zero-dependency Web Component to add sparkles to text fragments.
 - [dia-date-picker](https://github.com/break-stuff/dia-date-picker) - A lightweight framework agnostic date picker and calendar component.
 - [is-land](https://github.com/11ty/is-land) - A framework independent partial hydration islands architecture implementation.
+- [img-comparison-slider](https://github.com/sneas/img-comparison-slider) - A slider component for comparing images.
