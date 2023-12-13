@@ -115,6 +115,7 @@ A custom element that implements the Web Share API to share user-defined data.
 - [awesome-web-components](https://github.com/web-padawan/awesome-web-components)
 - [Modern Web](https://modern-web.dev/)
 - [Custom Elements Manifest](https://custom-elements-manifest.open-wc.org/)
+- [web-component-analyzer](https://github.com/runem/web-component-analyzer)
 - [Open Web Components](https://open-wc.org/)
 - [webcomponents.org](https://www.webcomponents.org/)
 - [Web Components Today](https://webcomponents.today/)
@@ -153,3 +154,4 @@ A custom element that implements the Web Share API to share user-defined data.
 - [dia-date-picker](https://github.com/break-stuff/dia-date-picker) - A lightweight framework agnostic date picker and calendar component.
 - [is-land](https://github.com/11ty/is-land) - A framework independent partial hydration islands architecture implementation.
 - [img-comparison-slider](https://github.com/sneas/img-comparison-slider) - A slider component for comparing images.
+- [image-compare](https://github.com/cloudfour/image-compare) - A web component for comparing two images using a slider.
