@@ -155,3 +155,5 @@ A custom element that implements the Web Share API to share user-defined data.
 - [is-land](https://github.com/11ty/is-land) - A framework independent partial hydration islands architecture implementation.
 - [img-comparison-slider](https://github.com/sneas/img-comparison-slider) - A slider component for comparing images.
 - [image-compare](https://github.com/cloudfour/image-compare) - A web component for comparing two images using a slider.
+- [qr-code](https://github.com/bitjson/qr-code) - A customizable, animate-able, SVG-based QR code custom element.
+- [snow-fall](https://github.com/zachleat/snow-fall) - A web component to add snow to your web site (or to an element on your web site).
