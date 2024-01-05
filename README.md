@@ -157,3 +157,4 @@ A custom element that implements the Web Share API to share user-defined data.
 - [image-compare](https://github.com/cloudfour/image-compare) - A web component for comparing two images using a slider.
 - [qr-code](https://github.com/bitjson/qr-code) - A customizable, animate-able, SVG-based QR code custom element.
 - [snow-fall](https://github.com/zachleat/snow-fall) - A web component to add snow to your web site (or to an element on your web site).
+- [click-spark](https://github.com/hexagoncircle/click-spark) - A web component that adds a little spark to your clicks.
