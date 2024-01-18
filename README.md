@@ -9,7 +9,7 @@ A custom element to create a group of tabs and tab panels.
 [repository](https://github.com/georapbox/a-tab-group) • [npm](https://www.npmjs.com/package/@georapbox/a-tab-group) • [demo](https://georapbox.github.io/a-tab-group/)
 
 ### &lt;capture-photo&gt;
-A custom element to capture a photo in the browser implementing the `MediaDevices.getUserMedia()` of the MediaDevices interface.
+A custom element to capture a photo in the browser implementing the `MediaDevices.getUserMedia()` of the MediaDevices interface.  
 [repository](https://github.com/georapbox/capture-photo-element) • [npm](https://www.npmjs.com/package/@georapbox/capture-photo-element) • [demo](https://georapbox.github.io/capture-photo-element/)
 
 ### &lt;clipboard-copy&gt;
