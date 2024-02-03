@@ -158,3 +158,4 @@ A custom element that implements the Web Share API to share user-defined data.
 - [qr-code](https://github.com/bitjson/qr-code) - A customizable, animate-able, SVG-based QR code custom element.
 - [snow-fall](https://github.com/zachleat/snow-fall) - A web component to add snow to your web site (or to an element on your web site).
 - [click-spark](https://github.com/hexagoncircle/click-spark) - A web component that adds a little spark to your clicks.
+- [carouscroll](https://github.com/zachleat/carouscroll) - A web component to add next/previous buttons to a horizontal scrollable container.
