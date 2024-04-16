@@ -161,3 +161,4 @@ A custom element that implements the Web Share API to share user-defined data.
 - [carouscroll](https://github.com/zachleat/carouscroll) - A web component to add next/previous buttons to a horizontal scrollable container.
 - [hypercard](https://github.com/zachleat/hypercard) - Web component to add a three-dimensional hover effect to a card.
 - [Cally](https://github.com/WickyNilliams/cally) - Small, feature-rich of calendar components.
+- [link-peek](https://github.com/daviddarnes/link-peek) - A Web Component to unfurl regular links into rich previews.
