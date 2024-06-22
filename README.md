@@ -116,6 +116,7 @@ A custom element that implements the Web Share API to share user-defined data.
 - [Modern Web](https://modern-web.dev/)
 - [Custom Elements Manifest](https://custom-elements-manifest.open-wc.org/)
 - [web-component-analyzer](https://github.com/runem/web-component-analyzer)
+- [CEM Tools](https://github.com/break-stuff/cem-tools)
 - [Open Web Components](https://open-wc.org/)
 - [webcomponents.org](https://www.webcomponents.org/)
 - [Web Components Today](https://webcomponents.today/)
