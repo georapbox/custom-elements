@@ -24,6 +24,10 @@ A custom element that implements the EyeDropper API that allows the user to sele
 A custom element that creates a drag and drop zone for files.  
 [repository](https://github.com/georapbox/files-dropzone-element) • [npm](https://www.npmjs.com/package/@georapbox/files-dropzone-element) • [demo](https://georapbox.github.io/files-dropzone-element/)
 
+### &lt;lorem-ipsum&gt;
+A custom element that generates "Lorem Ipsum" placeholder text.  
+[repository](https://github.com/georapbox/lorem-ipsum-element) • [npm](https://www.npmjs.com/package/@georapbox/lorem-ipsum-element) • [demo](https://georapbox.github.io/lorem-ipsum-element/)
+
 ### &lt;modal-element&gt;
 A custom element to create a modal, using the native `<dialog>` element under the hood.  
 [repository](https://github.com/georapbox/modal-element) • [npm](https://www.npmjs.com/package/@georapbox/modal-element) • [demo](https://georapbox.github.io/modal-element/)
