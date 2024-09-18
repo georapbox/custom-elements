@@ -172,3 +172,4 @@ A custom element that implements the Web Share API to share user-defined data.
 - [light-pen](https://github.com/konnorrogers/light-pen?tab=readme-ov-file) - A lightweight codepen implementation using web components.
 - [playground-elements](https://github.com/google/playground-elements) - A set of components for creating interactive editable coding environments on the web.
 - [i-html](https://github.com/keithamus/i-html) - A web component that allows for dynamically importing html inline.
+- [inspector-elements](https://github.com/elematic/inspector-elements) - Web components for visually inspecting objects.
