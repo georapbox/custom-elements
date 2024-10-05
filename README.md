@@ -174,3 +174,5 @@ A custom element that implements the Web Share API to share user-defined data.
 - [i-html](https://github.com/keithamus/i-html) - A web component that allows for dynamically importing html inline.
 - [inspector-elements](https://github.com/elematic/inspector-elements) - Web components for visually inspecting objects.
 - [model-viewer](https://github.com/google/model-viewer) - Display interactive 3D models on the web and in AR.
+- [stacked-alpha-video](https://github.com/jakearchibald/stacked-alpha-video) - 
+A web component for rendering video with transparency, efficiently.
