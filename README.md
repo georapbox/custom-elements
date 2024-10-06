@@ -176,3 +176,4 @@ A custom element that implements the Web Share API to share user-defined data.
 - [model-viewer](https://github.com/google/model-viewer) - Display interactive 3D models on the web and in AR.
 - [stacked-alpha-video](https://github.com/jakearchibald/stacked-alpha-video) - 
 A web component for rendering video with transparency, efficiently.
+- [code-bubble](https://github.com/break-stuff/code-bubble) - A web component that provides inline code examples that link out to StackBlitz sandboxes.
