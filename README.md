@@ -177,3 +177,5 @@ A custom element that implements the Web Share API to share user-defined data.
 - [stacked-alpha-video](https://github.com/jakearchibald/stacked-alpha-video) - 
 A web component for rendering video with transparency, efficiently.
 - [code-bubble](https://github.com/break-stuff/code-bubble) - A web component that provides inline code examples that link out to StackBlitz sandboxes.
+- [pie-chart](
+https://pie-meister.github.io/) - Custom elements to draw pie charts.
