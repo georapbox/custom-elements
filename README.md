@@ -138,18 +138,18 @@ A custom element that implements the Web Share API to share user-defined data.
 
 ### Standalone components
 
-- [details-utils](https://github.com/zachleat/details-utils) - Add enhancements to `details` elements
+- [details-utils](https://github.com/zachleat/details-utils) - Add enhancements to `details` elements.
 - [html-include](https://github.com/justinfagnani/html-include-element) - Easily include external HTML into your pages.
-- [seven-minute-tabs](https://github.com/zachleat/seven-minute-tabs) - Tabs web component
+- [seven-minute-tabs](https://github.com/zachleat/seven-minute-tabs) - Tabs web component.
 - [video-radio-star](https://github.com/zachleat/video-radio-star) - A lightweight web component helper for HTML5 videos.
 - [github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [howto-components](https://github.com/GoogleChromeLabs/howto-components) - A collection of web components for educational purposes with a special focus on accessibility, performance and progressive enhancement.
-- [two-up](https://github.com/GoogleChromeLabs/two-up) - A web component to compare two DOM elements
+- [two-up](https://github.com/GoogleChromeLabs/two-up) - A web component to compare two DOM elements.
 - [pinch-zoom](https://github.com/GoogleChromeLabs/pinch-zoom) - A web component for pinch zooming DOM elements.
 - [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) - A custom element that allows you to easily put a Dark Mode toggle or switch on your site.
 - [rhino-editor](https://github.com/KonnorRogers/rhino-editor) - To create a grab and go WYSIWYG editing experience that can hook into Ruby on Rails ActionText backend.
 - [emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element) - A lightweight emoji picker, distributed as a web component.
-- [codemirror-elements](https://github.com/justinfagnani/codemirror-elements) - A set of CodeMirror custom HTML elements
+- [codemirror-elements](https://github.com/justinfagnani/codemirror-elements) - A set of CodeMirror custom HTML elements.
 - [table-show](https://github.com/zachleat/table-saw) - A small web component for responsive &lt;table&gt; elements.
 - [browser-window](https://github.com/zachleat/browser-window) - A small themed zero-dependency Web Component for demos with a fake browser window (Safari-esque).
 - [squirm-inal](https://github.com/zachleat/squirminal) - The squirminal is a fake antique terminal web component.
@@ -180,4 +180,5 @@ A web component for rendering video with transparency, efficiently.
 - [pie-chart](
 https://pie-meister.github.io/) - Custom elements to draw pie charts.
 - [baseline-status](https://github.com/web-platform-dx/baseline-status) - A widget displaying Baseline status of a web feature based on https://github.com/web-platform-dx/web-features data.
-- [audio-recorder](https://github.com/DannyMoerkerke/audio-recorder) - Audio Recorder Web Component
+- [audio-recorder](https://github.com/DannyMoerkerke/audio-recorder) - Audio Recorder Web Component.
+- [form-element-mixin](https://github.com/DannyMoerkerke/form-element-mixin) - Mixin to associate a Custom Element with forms.
