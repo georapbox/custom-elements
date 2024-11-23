@@ -179,4 +179,5 @@ A web component for rendering video with transparency, efficiently.
 - [code-bubble](https://github.com/break-stuff/code-bubble) - A web component that provides inline code examples that link out to StackBlitz sandboxes.
 - [pie-chart](
 https://pie-meister.github.io/) - Custom elements to draw pie charts.
-[baseline-status](https://github.com/web-platform-dx/baseline-status) - A widget displaying Baseline status of a web feature based on https://github.com/web-platform-dx/web-features data.
+- [baseline-status](https://github.com/web-platform-dx/baseline-status) - A widget displaying Baseline status of a web feature based on https://github.com/web-platform-dx/web-features data.
+- [audio-recorder](https://github.com/DannyMoerkerke/audio-recorder) - Audio Recorder Web Component
