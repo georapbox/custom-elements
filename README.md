@@ -182,3 +182,4 @@ https://pie-meister.github.io/) - Custom elements to draw pie charts.
 - [baseline-status](https://github.com/web-platform-dx/baseline-status) - A widget displaying Baseline status of a web feature based on https://github.com/web-platform-dx/web-features data.
 - [audio-recorder](https://github.com/DannyMoerkerke/audio-recorder) - Audio Recorder Web Component.
 - [form-element-mixin](https://github.com/DannyMoerkerke/form-element-mixin) - Mixin to associate a Custom Element with forms.
+- [custom-element](https://github.com/DannyMoerkerke/custom-element) - A base class for Web Components (Custom Elements) which provides simple data binding.
