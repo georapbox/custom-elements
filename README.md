@@ -183,3 +183,4 @@ https://pie-meister.github.io/) - Custom elements to draw pie charts.
 - [audio-recorder](https://github.com/DannyMoerkerke/audio-recorder) - Audio Recorder Web Component.
 - [form-element-mixin](https://github.com/DannyMoerkerke/form-element-mixin) - Mixin to associate a Custom Element with forms.
 - [custom-element](https://github.com/DannyMoerkerke/custom-element) - A base class for Web Components (Custom Elements) which provides simple data binding.
+- [form-participation](https://github.com/open-wc/form-participation) - Helper, mixins, tools, and more for supporting your custom elements in participating in an ancestor form.
