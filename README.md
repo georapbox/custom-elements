@@ -186,3 +186,4 @@ https://pie-meister.github.io/) - Custom elements to draw pie charts.
 - [form-participation](https://github.com/open-wc/form-participation) - Helper, mixins, tools, and more for supporting your custom elements in participating in an ancestor form.
 - [pixel-canvas](https://github.com/hexagoncircle/pixel-canvas?tab=readme-ov-file) - Custom element that applies a shimmering pixel background on element hover.
 - [media-chrome](https://github.com/muxinc/media-chrome) - Custom elements for making audio and video player controls that look great in your website or app.
+- [wc-dox](https://github.com/break-stuff/wc-dox) - Web component API documentation generator.
