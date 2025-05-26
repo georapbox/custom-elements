@@ -4,6 +4,10 @@ A list of my Custom Elements (Web Components) and some useful links with related
 
 ## Components
 
+### &lt;alert-element&gt;
+A custom HTML element for displaying dismissible alerts and toast notifications.  
+[repository](https://github.com/georapbox/alert-element) • [npm](https://www.npmjs.com/package/@georapbox/alert-element) • [demo](https://georapbox.github.io/alert-element/)
+
 ### &lt;a-tab-group&gt;
 A custom element to create a group of tabs and tab panels.  
 [repository](https://github.com/georapbox/a-tab-group) • [npm](https://www.npmjs.com/package/@georapbox/a-tab-group) • [demo](https://georapbox.github.io/a-tab-group/)
