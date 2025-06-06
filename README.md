@@ -192,3 +192,4 @@ https://pie-meister.github.io/) - Custom elements to draw pie charts.
 - [media-chrome](https://github.com/muxinc/media-chrome) - Custom elements for making audio and video player controls that look great in your website or app.
 - [wc-dox](https://github.com/break-stuff/wc-dox) - Web component API documentation generator.
 - [qr-element](https://github.com/dgrammatiko/qr-element) - Web component to generate QR codes from a string input.
+- [line-numbers](https://github.com/zachleat/line-numbers) - Web component that adds unencumbered line numbers to elements like `<pre>` and `<textarea>`.
