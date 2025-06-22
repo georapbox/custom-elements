@@ -193,3 +193,4 @@ https://pie-meister.github.io/) - Custom elements to draw pie charts.
 - [wc-dox](https://github.com/break-stuff/wc-dox) - Web component API documentation generator.
 - [qr-element](https://github.com/dgrammatiko/qr-element) - Web component to generate QR codes from a string input.
 - [line-numbers](https://github.com/zachleat/line-numbers) - Web component that adds unencumbered line numbers to elements like `<pre>` and `<textarea>`.
+- [syntax-highlight](https://github.com/andreruffert/syntax-highlight-element) - Syntax Highlighting using the CSS Custom Highlight API.
