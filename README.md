@@ -118,6 +118,10 @@ A custom element that implements the Web Share API to share user-defined data.
 
 - [About Web Components](https://eisenbergeffect.medium.com/about-web-components-7b2a3ed67a78)
 
+## Articles
+
+- [How to Publish Web Components to NPM](https://justinfagnani.com/2019/11/01/how-to-publish-web-components-to-npm/)
+
 ## Misc (Tools, guides, etc)
 
 - [awesome-web-components](https://github.com/web-padawan/awesome-web-components)
