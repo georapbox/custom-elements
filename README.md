@@ -201,3 +201,4 @@ https://pie-meister.github.io/) - Custom elements to draw pie charts.
 - [syntax-highlight](https://github.com/andreruffert/syntax-highlight-element) - Syntax Highlighting using the CSS Custom Highlight API.
 - [range-slider](https://github.com/andreruffert/range-slider-element) - A cross browser customizable and accessible <range-slider> web component.
 - [wpt-embed](https://github.com/slightlyoff/wpt-embed) - Scripts for downloading [WebPageTest.org](https://www.webpagetest.org/) traces and Web Components for displaying them in your own pages.
+- [spoilerjs](https://github.com/shajidhasan/spoilerjs) - A fast, lightweight web component for creating spoiler text with particle effects.
