@@ -204,3 +204,4 @@ https://pie-meister.github.io/) - Custom elements to draw pie charts.
 - [spoilerjs](https://github.com/shajidhasan/spoilerjs) - A fast, lightweight web component for creating spoiler text with particle effects.
 - [lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - Web component for faster and more private YouTube embeds.
 - [lite-youtube](https://github.com/justinribeiro/lite-youtube) - The shadow dom web component version of Paul's lite-youtube-embed.
+- [color-input](https://github.com/argyleink/css-color-component) - A standalone web component color picker.
