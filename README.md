@@ -123,6 +123,7 @@ A custom element that implements the Web Share API to share user-defined data.
 - [How to Publish Web Components to NPM](https://justinfagnani.com/2019/11/01/how-to-publish-web-components-to-npm/) - Justin Fagnani
 - [Web Components Tutorial for Beginners](https://www.robinwieruch.de/web-components-tutorial/) - Robin Wieruch
 - [How to use Web Components in React](https://www.robinwieruch.de/react-web-components/) - Robin Wieruch
+
 ## Misc (Tools, guides, etc)
 
 - [awesome-web-components](https://github.com/web-padawan/awesome-web-components)
@@ -133,6 +134,7 @@ A custom element that implements the Web Share API to share user-defined data.
 - [Open Web Components](https://open-wc.org/)
 - [webcomponents.org](https://www.webcomponents.org/)
 - [Web Components Today](https://webcomponents.today/)
+- [Web Components Compiler (WCC)](https://github.com/ProjectEvergreen/wcc)
 
 ## Third party components
 
