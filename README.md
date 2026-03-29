@@ -60,6 +60,10 @@ A custom element that acts as a placeholder to indicate that some content will e
 A custom element that allows you to toggle between light, dark and system theme.  
 [repository](https://github.com/georapbox/theme-toggle-element) • [npm](https://www.npmjs.com/package/@georapbox/theme-toggle-element) • [demo](https://georapbox.github.io/theme-toggle-element/)
 
+### &lt;validated-form&gt;
+A Web Component that enhances native HTML form validation with accessible inline error messages.  
+[repository](https://github.com/georapbox/validated-form) • [npm](https://www.npmjs.com/package/@georapbox/validated-form) • [demo](https://georapbox.github.io/validated-form/)
+
 ### &lt;web-share&gt;
 A custom element that implements the Web Share API to share user-defined data.  
 [repository](https://github.com/georapbox/web-share-element) • [npm](https://www.npmjs.com/package/@georapbox/web-share-element) • [demo](https://georapbox.github.io/web-share-element/)
