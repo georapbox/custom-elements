@@ -211,3 +211,4 @@ https://pie-meister.github.io/) - Custom elements to draw pie charts.
 - [lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - Web component for faster and more private YouTube embeds.
 - [lite-youtube](https://github.com/justinribeiro/lite-youtube) - The shadow dom web component version of Paul's lite-youtube-embed.
 - [color-input](https://github.com/argyleink/css-color-component) - A standalone web component color picker.
+- [local-iframe](https://github.com/AleksandrHovhannisyan/local-iframe) - Web component that allows you to render local code sandboxes using iframes and HTML templates.
