@@ -150,6 +150,7 @@ A custom element that implements the Web Share API to share user-defined data.
 - [Lion](https://lion-web.netlify.app/) - Fundamental white label web components for building your design system
 - [Vaadin](https://vaadin.com/) - Vaadin Web Components
 - [Material](https://material-web.dev/) - The official web component set for Material 3
+- [Spectrum Web Components](https://opensource.adobe.com/spectrum-web-components/) - Web Components implementation of Adobe's Spectrum design system
 
 ### Standalone components
 
