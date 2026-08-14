@@ -56,9 +56,13 @@ A custom element that scrolls to the top of the page using the IntersectionObser
 A custom element that acts as a placeholder to indicate that some content will eventually be rendered.  
 [repository](https://github.com/georapbox/skeleton-placeholder-element) • [npm](https://www.npmjs.com/package/@georapbox/skeleton-placeholder-element) • [demo](https://georapbox.github.io/skeleton-placeholder-element/)
 
+### &lt;theme-switcher&gt;
+A custom element for switching between light, dark, and system color themes.  
+[repository](https://github.com/georapbox/theme-switcher) • [npm](https://www.npmjs.com/package/@georapbox/theme-switcher) • [demo](https://georapbox.github.io/theme-switcher/)
+
 ### &lt;theme-toggle&gt;
-A custom element that allows you to toggle between light, dark and system theme.  
-[repository](https://github.com/georapbox/theme-toggle-element) • [npm](https://www.npmjs.com/package/@georapbox/theme-toggle-element) • [demo](https://georapbox.github.io/theme-toggle-element/)
+A custom element for toggling between light and dark color themes while following the system preference by default.  
+[repository](https://github.com/georapbox/theme-toggle) • [npm](https://www.npmjs.com/package/@georapbox/theme-toggle) • [demo](https://georapbox.github.io/theme-toggle/)
 
 ### &lt;validated-form&gt;
 A Web Component that enhances native HTML form validation with accessible inline error messages.  
