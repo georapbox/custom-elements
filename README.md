@@ -143,6 +143,7 @@ A custom element that implements the Web Share API to share user-defined data.
 - [webcomponents.org](https://www.webcomponents.org/)
 - [Web Components Today](https://webcomponents.today/)
 - [Web Components Compiler (WCC)](https://github.com/ProjectEvergreen/wcc)
+- [Web Component Star Search](https://components.zachleat.dev/)
 
 ## Third party components
 
